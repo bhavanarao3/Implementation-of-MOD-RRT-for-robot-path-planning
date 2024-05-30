@@ -49,9 +49,15 @@ There are 6 files in total
 
 ### Output
 The program visualizes the exploration process and the final path
-Images
-![RRT* Map1](images/rrt_star_map1.png)
-Videos
+#### Images
+<p align="center">
+  <img src="images/rrt_star_map1.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> RRT* Map1.
+</p>
+
+
+#### Videos
 
 1. RRT* implementation - https://drive.google.com/file/d/1LN9thg2i187xA14FL2KOaHorcXVeRgRQ/view?usp=sharing
 2. Dynamic RRT* implementation - https://drive.google.com/file/d/1MiJB5ktdidfzZGStHWGAcWEpsfxgi-E_/view?usp=sharing
