@@ -49,6 +49,8 @@ There are 6 files in total
 
 ### Output
 The program visualizes the exploration process and the final path
+Images
+![RRT* Map1](images/rrt_star_map1.png)
 Videos
 
 1. RRT* implementation - https://drive.google.com/file/d/1LN9thg2i187xA14FL2KOaHorcXVeRgRQ/view?usp=sharing
