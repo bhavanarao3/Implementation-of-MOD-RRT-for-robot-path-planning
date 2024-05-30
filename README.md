@@ -56,6 +56,36 @@ The program visualizes the exploration process and the final path
   <b>Figure 1:</b> RRT* Map1.
 </p>
 
+<p align="center">
+  <img src="images/rrt_star_map2.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> RRT* Map2.
+</p>
+
+<p align="center">
+  <img src="images/dynamic_rrt_map1.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> Dynamic RRT Map1.
+</p>
+
+<p align="center">
+  <img src="images/dynamic_rrt_map2.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> Dynamic RRT Map2.
+</p>
+
+<p align="center">
+  <img src="images/mod_map1.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> MOD RRT* Map1.
+</p>
+
+<p align="center">
+  <img src="images/mod_map2.png" alt="Screenshot of my project" style="width:50%;">
+  <br>
+  <b>Figure 1:</b> MOD RRT* Map2.
+</p>
+
 
 #### Videos
 
