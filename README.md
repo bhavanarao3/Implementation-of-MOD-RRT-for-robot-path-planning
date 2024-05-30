@@ -19,7 +19,9 @@ You can install these dependencies via pip:
 - Navigate to the directory containing the script. If your script is in a folder called "Final_Project" on your desktop, you would use a command like:
 cd Desktop/Final_Project
 
-- Directly run the codes, by clicking on run button , a pygame window will pop-up and visualization starts 
+- Directly run the codes, by clicking on run button , a pygame window will pop-up and visualization starts
+
+### Structure
 
 There are 6 files in total
  
